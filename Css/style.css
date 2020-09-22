@@ -1,0 +1,16 @@
+p {
+  color: brown;
+}
+
+h1{
+  color: blue;
+}
+#container{
+  background-color: lightgreen;
+  border-style: solid;
+  border-color: red;
+  margin:2% 5%;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 15px 15px 15px black;
+}

@@ -1,0 +1,1 @@
+<p>Eredmény: {{ összeg }}</p>
